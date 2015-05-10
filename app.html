@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>app</title>
+  <meta name="viewport" content="width=device-width,
+                                   initial-scale=1.0,
+                                   maximum-scale=1.0,
+                                   user-scalable=no,
+                                   minimal-ui">
+<link rel="stylesheet" href="app.min.css">
+<link rel="stylesheet" href="appstyles.css">
+</head>
+	
+<body class="app-loaded">
+	<script src="zepto.js"></script>
+    <script src="app.min.js"></script>
+    
+    <div class="app-page divpage" data-page="page1">
+    	<div class="app-topbar topbar">
+            <div class="app-title" style="font-size:"20px">
+                天气
+            </div>
+        </div>
+        <div class="app-content">
+        	<div class="app-section">
+            	<div class=" app-menu"></div>
+          		<div class="app-button" data-target="page2">Go to Page 2</div>
+       		</div>
+      	</div>
+    </div>
+    
+    <div class="app-page" data-page="page2">
+    	<div class="app-topbar topbar">
+        	<div class="app-button left" data-back data-autotitle>返回</div>
+            <div class="app-title" style>
+                具体
+            </div>
+        </div>
+    </div>
+    <script>
+		App.controller('page1',function(page){
+			});
+		App.controller('page2',function(page){
+			});
+		try {
+        App.restore();
+      } catch (err) {
+        App.load('page1');
+      }
+	</script>
+</body>
+</html>
