@@ -1,0 +1,2237 @@
+[
+    {
+        'locationName': '北京',
+        'locationCode': '101010100',
+        'shortName': 'bj'
+    },
+    {
+        'locationName': '朝阳',
+        'locationCode': '101010300',
+        'shortName': 'cy'
+    },
+    {
+        'locationName': '顺义',
+        'locationCode': '101010400',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '怀柔',
+        'locationCode': '101010500',
+        'shortName': 'hr'
+    },
+    {
+        'locationName': '通州',
+        'locationCode': '101010600',
+        'shortName': 'tz'
+    },
+    {
+        'locationName': '昌平',
+        'locationCode': '101010700',
+        'shortName': 'cp'
+    },
+    {
+        'locationName': '延庆',
+        'locationCode': '101010800',
+        'shortName': 'yq'
+    },
+    {
+        'locationName': '丰台',
+        'locationCode': '101010900',
+        'shortName': 'ft'
+    },
+    {
+        'locationName': '石景山',
+        'locationCode': '101011000',
+        'shortName': 'sjs'
+    },
+    {
+        'locationName': '大兴',
+        'locationCode': '101011100',
+        'shortName': 'dx'
+    },
+    {
+        'locationName': '房山',
+        'locationCode': '101011200',
+        'shortName': 'fs'
+    },
+    {
+        'locationName': '密云',
+        'locationCode': '101011300',
+        'shortName': 'my'
+    },
+    {
+        'locationName': '门头沟',
+        'locationCode': '101011400',
+        'shortName': 'mtg'
+    },
+    {
+        'locationName': '平谷',
+        'locationCode': '101011500',
+        'shortName': 'pg'
+    },
+    {
+        'locationName': '八达岭',
+        'locationCode': '101011600',
+        'shortName': 'bdl'
+    },
+    {
+        'locationName': '佛爷顶',
+        'locationCode': '101011700',
+        'shortName': 'fyd'
+    },
+    {
+        'locationName': '汤河口',
+        'locationCode': '101011800',
+        'shortName': 'thk'
+    },
+    {
+        'locationName': '密云上甸子',
+        'locationCode': '101011900',
+        'shortName': 'mysdz'
+    },
+    {
+        'locationName': '斋堂',
+        'locationCode': '101012000',
+        'shortName': 'zt'
+    },
+    {
+        'locationName': '霞云岭',
+        'locationCode': '101012100',
+        'shortName': 'xyl'
+    },
+    {
+        'locationName': '北京城区',
+        'locationCode': '101012200',
+        'shortName': 'bjcq'
+    },
+    {
+        'locationName': '海淀',
+        'locationCode': '101010200',
+        'shortName': 'hd'
+    },
+    {
+        'locationName': '天津',
+        'locationCode': '101030100',
+        'shortName': 'tj'
+    },
+    {
+        'locationName': '宝坻',
+        'locationCode': '101030300',
+        'shortName': 'b*'
+    },
+    {
+        'locationName': '东丽',
+        'locationCode': '101030400',
+        'shortName': 'dl'
+    },
+    {
+        'locationName': '西青',
+        'locationCode': '101030500',
+        'shortName': 'xq'
+    },
+    {
+        'locationName': '北辰',
+        'locationCode': '101030600',
+        'shortName': 'bc'
+    },
+    {
+        'locationName': '蓟县',
+        'locationCode': '101031400',
+        'shortName': 'jx'
+    },
+    {
+        'locationName': '汉沽',
+        'locationCode': '101030800',
+        'shortName': 'hg'
+    },
+    {
+        'locationName': '静海',
+        'locationCode': '101030900',
+        'shortName': 'jh'
+    },
+    {
+        'locationName': '津南',
+        'locationCode': '101031000',
+        'shortName': 'jn'
+    },
+    {
+        'locationName': '塘沽',
+        'locationCode': '101031100',
+        'shortName': 'tg'
+    },
+    {
+        'locationName': '大港',
+        'locationCode': '101031200',
+        'shortName': 'dg'
+    },
+    {
+        'locationName': '武清',
+        'locationCode': '101030200',
+        'shortName': 'wq'
+    },
+    {
+        'locationName': '宁河',
+        'locationCode': '101030700',
+        'shortName': 'nh'
+    },
+    {
+        'locationName': '上海',
+        'locationCode': '101020100',
+        'shortName': 'sh'
+    },
+    {
+        'locationName': '宝山',
+        'locationCode': '101020300',
+        'shortName': 'bs'
+    },
+    {
+        'locationName': '嘉定',
+        'locationCode': '101020500',
+        'shortName': 'jd'
+    },
+    {
+        'locationName': '南汇',
+        'locationCode': '101020600',
+        'shortName': 'nh'
+    },
+    {
+        'locationName': '浦东',
+        'locationCode': '101021300',
+        'shortName': 'pd'
+    },
+    {
+        'locationName': '青浦',
+        'locationCode': '101020800',
+        'shortName': 'qp'
+    },
+    {
+        'locationName': '松江',
+        'locationCode': '101020900',
+        'shortName': 'sj'
+    },
+    {
+        'locationName': '奉贤',
+        'locationCode': '101021000',
+        'shortName': 'fx'
+    },
+    {
+        'locationName': '崇明',
+        'locationCode': '101021100',
+        'shortName': 'cm'
+    },
+    {
+        'locationName': '徐家汇',
+        'locationCode': '101021200',
+        'shortName': 'xjh'
+    },
+    {
+        'locationName': '闵行',
+        'locationCode': '101020200',
+        'shortName': '*x'
+    },
+    {
+        'locationName': '金山',
+        'locationCode': '101020700',
+        'shortName': 'js'
+    },
+    {
+        'locationName': '石家庄',
+        'locationCode': '101090101',
+        'shortName': 'sjz'
+    },
+    {
+        'locationName': '张家口',
+        'locationCode': '101090301',
+        'shortName': 'zjk'
+    },
+    {
+        'locationName': '承德',
+        'locationCode': '101090402',
+        'shortName': 'cd'
+    },
+    {
+        'locationName': '唐山',
+        'locationCode': '101090501',
+        'shortName': 'ts'
+    },
+    {
+        'locationName': '秦皇岛',
+        'locationCode': '101091101',
+        'shortName': 'qhd'
+    },
+    {
+        'locationName': '沧州',
+        'locationCode': '101090701',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '衡水',
+        'locationCode': '101090801',
+        'shortName': 'hs'
+    },
+    {
+        'locationName': '邢台',
+        'locationCode': '101090901',
+        'shortName': 'xt'
+    },
+    {
+        'locationName': '邯郸',
+        'locationCode': '101091001',
+        'shortName': 'hd'
+    },
+    {
+        'locationName': '保定',
+        'locationCode': '101090201',
+        'shortName': 'bd'
+    },
+    {
+        'locationName': '廊坊',
+        'locationCode': '101090601',
+        'shortName': 'lf'
+    },
+    {
+        'locationName': '郑州',
+        'locationCode': '101180101',
+        'shortName': 'zz'
+    },
+    {
+        'locationName': '新乡',
+        'locationCode': '101180301',
+        'shortName': 'xx'
+    },
+    {
+        'locationName': '许昌',
+        'locationCode': '101180401',
+        'shortName': 'xc'
+    },
+    {
+        'locationName': '平顶山',
+        'locationCode': '101180501',
+        'shortName': 'pds'
+    },
+    {
+        'locationName': '信阳',
+        'locationCode': '101180601',
+        'shortName': 'xy'
+    },
+    {
+        'locationName': '南阳',
+        'locationCode': '101180701',
+        'shortName': 'ny'
+    },
+    {
+        'locationName': '开封',
+        'locationCode': '101180801',
+        'shortName': 'kf'
+    },
+    {
+        'locationName': '洛阳',
+        'locationCode': '101180901',
+        'shortName': 'ly'
+    },
+    {
+        'locationName': '商丘',
+        'locationCode': '101181001',
+        'shortName': 'sq'
+    },
+    {
+        'locationName': '焦作',
+        'locationCode': '101181101',
+        'shortName': 'jz'
+    },
+    {
+        'locationName': '鹤壁',
+        'locationCode': '101181201',
+        'shortName': 'hb'
+    },
+    {
+        'locationName': '濮阳',
+        'locationCode': '101181301',
+        'shortName': '*y'
+    },
+    {
+        'locationName': '周口',
+        'locationCode': '101181401',
+        'shortName': 'zk'
+    },
+    {
+        'locationName': '漯河',
+        'locationCode': '101181501',
+        'shortName': '*h'
+    },
+    {
+        'locationName': '驻马店',
+        'locationCode': '101181601',
+        'shortName': 'zmd'
+    },
+    {
+        'locationName': '三门峡',
+        'locationCode': '101181701',
+        'shortName': 'smx'
+    },
+    {
+        'locationName': '济源',
+        'locationCode': '101181801',
+        'shortName': 'jy'
+    },
+    {
+        'locationName': '安阳',
+        'locationCode': '101180201',
+        'shortName': 'ay'
+    },
+    {
+        'locationName': '合肥',
+        'locationCode': '101220101',
+        'shortName': 'hf'
+    },
+    {
+        'locationName': '芜湖',
+        'locationCode': '101220301',
+        'shortName': 'wh'
+    },
+    {
+        'locationName': '淮南',
+        'locationCode': '101220401',
+        'shortName': 'hn'
+    },
+    {
+        'locationName': '马鞍山',
+        'locationCode': '101220501',
+        'shortName': 'mas'
+    },
+    {
+        'locationName': '安庆',
+        'locationCode': '101220601',
+        'shortName': 'aq'
+    },
+    {
+        'locationName': '宿州',
+        'locationCode': '101220701',
+        'shortName': 'sz'
+    },
+    {
+        'locationName': '阜阳',
+        'locationCode': '101220801',
+        'shortName': 'fy'
+    },
+    {
+        'locationName': '亳州',
+        'locationCode': '101220901',
+        'shortName': '*z'
+    },
+    {
+        'locationName': '黄山',
+        'locationCode': '101221001',
+        'shortName': 'hs'
+    },
+    {
+        'locationName': '滁州',
+        'locationCode': '101221101',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '淮北',
+        'locationCode': '101221201',
+        'shortName': 'hb'
+    },
+    {
+        'locationName': '铜陵',
+        'locationCode': '101221301',
+        'shortName': 'tl'
+    },
+    {
+        'locationName': '宣城',
+        'locationCode': '101221401',
+        'shortName': 'xc'
+    },
+    {
+        'locationName': '六安',
+        'locationCode': '101221501',
+        'shortName': 'la'
+    },
+    {
+        'locationName': '巢湖',
+        'locationCode': '101221601',
+        'shortName': 'ch'
+    },
+    {
+        'locationName': '池州',
+        'locationCode': '101221701',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '蚌埠',
+        'locationCode': '101220201',
+        'shortName': 'bb'
+    },
+    {
+        'locationName': '杭州',
+        'locationCode': '101210101',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '舟山',
+        'locationCode': '101211101',
+        'shortName': 'zs'
+    },
+    {
+        'locationName': '湖州',
+        'locationCode': '101210201',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '嘉兴',
+        'locationCode': '101210301',
+        'shortName': 'jx'
+    },
+    {
+        'locationName': '金华',
+        'locationCode': '101210901',
+        'shortName': 'jh'
+    },
+    {
+        'locationName': '绍兴',
+        'locationCode': '101210501',
+        'shortName': 'sx'
+    },
+    {
+        'locationName': '台州',
+        'locationCode': '101210601',
+        'shortName': 'tz'
+    },
+    {
+        'locationName': '温州',
+        'locationCode': '101210701',
+        'shortName': 'wz'
+    },
+    {
+        'locationName': '丽水',
+        'locationCode': '101210801',
+        'shortName': 'ls'
+    },
+    {
+        'locationName': '衢州',
+        'locationCode': '101211001',
+        'shortName': '*z'
+    },
+    {
+        'locationName': '宁波',
+        'locationCode': '101210401',
+        'shortName': 'nb'
+    },
+    {
+        'locationName': '重庆',
+        'locationCode': '101040100',
+        'shortName': 'zq'
+    },
+    {
+        'locationName': '合川',
+        'locationCode': '101040300',
+        'shortName': 'hc'
+    },
+    {
+        'locationName': '南川',
+        'locationCode': '101040400',
+        'shortName': 'nc'
+    },
+    {
+        'locationName': '江津',
+        'locationCode': '101040500',
+        'shortName': 'jj'
+    },
+    {
+        'locationName': '万盛',
+        'locationCode': '101040600',
+        'shortName': 'ws'
+    },
+    {
+        'locationName': '渝北',
+        'locationCode': '101040700',
+        'shortName': 'yb'
+    },
+    {
+        'locationName': '北碚',
+        'locationCode': '101040800',
+        'shortName': 'b*'
+    },
+    {
+        'locationName': '巴南',
+        'locationCode': '101040900',
+        'shortName': 'bn'
+    },
+    {
+        'locationName': '长寿',
+        'locationCode': '101041000',
+        'shortName': 'cs'
+    },
+    {
+        'locationName': '黔江',
+        'locationCode': '101041100',
+        'shortName': 'qj'
+    },
+    {
+        'locationName': '万州天城',
+        'locationCode': '101041200',
+        'shortName': 'wztc'
+    },
+    {
+        'locationName': '万州龙宝',
+        'locationCode': '101041300',
+        'shortName': 'wzlb'
+    },
+    {
+        'locationName': '涪陵',
+        'locationCode': '101041400',
+        'shortName': 'fl'
+    },
+    {
+        'locationName': '开县',
+        'locationCode': '101041500',
+        'shortName': 'kx'
+    },
+    {
+        'locationName': '城口',
+        'locationCode': '101041600',
+        'shortName': 'ck'
+    },
+    {
+        'locationName': '云阳',
+        'locationCode': '101041700',
+        'shortName': 'yy'
+    },
+    {
+        'locationName': '巫溪',
+        'locationCode': '101041800',
+        'shortName': 'wx'
+    },
+    {
+        'locationName': '奉节',
+        'locationCode': '101041900',
+        'shortName': 'fj'
+    },
+    {
+        'locationName': '巫山',
+        'locationCode': '101042000',
+        'shortName': 'ws'
+    },
+    {
+        'locationName': '潼南',
+        'locationCode': '101042100',
+        'shortName': '*n'
+    },
+    {
+        'locationName': '垫江',
+        'locationCode': '101042200',
+        'shortName': 'dj'
+    },
+    {
+        'locationName': '梁平',
+        'locationCode': '101042300',
+        'shortName': 'lp'
+    },
+    {
+        'locationName': '忠县',
+        'locationCode': '101042400',
+        'shortName': 'zx'
+    },
+    {
+        'locationName': '石柱',
+        'locationCode': '101042500',
+        'shortName': 'sz'
+    },
+    {
+        'locationName': '大足',
+        'locationCode': '101042600',
+        'shortName': 'dz'
+    },
+    {
+        'locationName': '荣昌',
+        'locationCode': '101042700',
+        'shortName': 'rc'
+    },
+    {
+        'locationName': '铜梁',
+        'locationCode': '101042800',
+        'shortName': 'tl'
+    },
+    {
+        'locationName': '璧山',
+        'locationCode': '101042900',
+        'shortName': '*s'
+    },
+    {
+        'locationName': '丰都',
+        'locationCode': '101043000',
+        'shortName': 'fd'
+    },
+    {
+        'locationName': '武隆',
+        'locationCode': '101043100',
+        'shortName': 'wl'
+    },
+    {
+        'locationName': '彭水',
+        'locationCode': '101043200',
+        'shortName': 'ps'
+    },
+    {
+        'locationName': '綦江',
+        'locationCode': '101043300',
+        'shortName': '*j'
+    },
+    {
+        'locationName': '酉阳',
+        'locationCode': '101043400',
+        'shortName': 'yy'
+    },
+    {
+        'locationName': '秀山',
+        'locationCode': '101043600',
+        'shortName': 'xs'
+    },
+    {
+        'locationName': '沙坪坝',
+        'locationCode': '101043700',
+        'shortName': 'spb'
+    },
+    {
+        'locationName': '永川',
+        'locationCode': '101040200',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '福州',
+        'locationCode': '101230101',
+        'shortName': 'fz'
+    },
+    {
+        'locationName': '泉州',
+        'locationCode': '101230501',
+        'shortName': 'qz'
+    },
+    {
+        'locationName': '漳州',
+        'locationCode': '101230601',
+        'shortName': 'zz'
+    },
+    {
+        'locationName': '龙岩',
+        'locationCode': '101230701',
+        'shortName': 'ly'
+    },
+    {
+        'locationName': '晋江',
+        'locationCode': '101230509',
+        'shortName': 'jj'
+    },
+    {
+        'locationName': '南平',
+        'locationCode': '101230901',
+        'shortName': 'np'
+    },
+    {
+        'locationName': '厦门',
+        'locationCode': '101230201',
+        'shortName': 'xm'
+    },
+    {
+        'locationName': '宁德',
+        'locationCode': '101230301',
+        'shortName': 'nd'
+    },
+    {
+        'locationName': '莆田',
+        'locationCode': '101230401',
+        'shortName': 'pt'
+    },
+    {
+        'locationName': '三明',
+        'locationCode': '101230801',
+        'shortName': 'sm'
+    },
+    {
+        'locationName': '兰州',
+        'locationCode': '101160101',
+        'shortName': 'lz'
+    },
+    {
+        'locationName': '平凉',
+        'locationCode': '101160301',
+        'shortName': 'pl'
+    },
+    {
+        'locationName': '庆阳',
+        'locationCode': '101160401',
+        'shortName': 'qy'
+    },
+    {
+        'locationName': '武威',
+        'locationCode': '101160501',
+        'shortName': 'ww'
+    },
+    {
+        'locationName': '金昌',
+        'locationCode': '101160601',
+        'shortName': 'jc'
+    },
+    {
+        'locationName': '嘉峪关',
+        'locationCode': '101161401',
+        'shortName': 'jyg'
+    },
+    {
+        'locationName': '酒泉',
+        'locationCode': '101160801',
+        'shortName': 'jq'
+    },
+    {
+        'locationName': '天水',
+        'locationCode': '101160901',
+        'shortName': 'ts'
+    },
+    {
+        'locationName': '武都',
+        'locationCode': '101161001',
+        'shortName': 'wd'
+    },
+    {
+        'locationName': '临夏',
+        'locationCode': '101161101',
+        'shortName': 'lx'
+    },
+    {
+        'locationName': '合作',
+        'locationCode': '101161201',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '白银',
+        'locationCode': '101161301',
+        'shortName': 'by'
+    },
+    {
+        'locationName': '定西',
+        'locationCode': '101160201',
+        'shortName': 'dx'
+    },
+    {
+        'locationName': '张掖',
+        'locationCode': '101160701',
+        'shortName': 'zy'
+    },
+    {
+        'locationName': '广州',
+        'locationCode': '101280101',
+        'shortName': 'gz'
+    },
+    {
+        'locationName': '惠州',
+        'locationCode': '101280301',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '梅州',
+        'locationCode': '101280401',
+        'shortName': 'mz'
+    },
+    {
+        'locationName': '汕头',
+        'locationCode': '101280501',
+        'shortName': 'st'
+    },
+    {
+        'locationName': '深圳',
+        'locationCode': '101280601',
+        'shortName': 's*'
+    },
+    {
+        'locationName': '珠海',
+        'locationCode': '101280701',
+        'shortName': 'zh'
+    },
+    {
+        'locationName': '佛山',
+        'locationCode': '101280800',
+        'shortName': 'fs'
+    },
+    {
+        'locationName': '肇庆',
+        'locationCode': '101280901',
+        'shortName': 'zq'
+    },
+    {
+        'locationName': '湛江',
+        'locationCode': '101281001',
+        'shortName': 'zj'
+    },
+    {
+        'locationName': '江门',
+        'locationCode': '101281101',
+        'shortName': 'jm'
+    },
+    {
+        'locationName': '河源',
+        'locationCode': '101281201',
+        'shortName': 'hy'
+    },
+    {
+        'locationName': '清远',
+        'locationCode': '101281301',
+        'shortName': 'qy'
+    },
+    {
+        'locationName': '云浮',
+        'locationCode': '101281401',
+        'shortName': 'yf'
+    },
+    {
+        'locationName': '潮州',
+        'locationCode': '101281501',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '东莞',
+        'locationCode': '101281601',
+        'shortName': 'd*'
+    },
+    {
+        'locationName': '中山',
+        'locationCode': '101281701',
+        'shortName': 'zs'
+    },
+    {
+        'locationName': '阳江',
+        'locationCode': '101281801',
+        'shortName': 'yj'
+    },
+    {
+        'locationName': '揭阳',
+        'locationCode': '101281901',
+        'shortName': 'jy'
+    },
+    {
+        'locationName': '茂名',
+        'locationCode': '101282001',
+        'shortName': 'mm'
+    },
+    {
+        'locationName': '汕尾',
+        'locationCode': '101282101',
+        'shortName': 'sw'
+    },
+    {
+        'locationName': '韶关',
+        'locationCode': '101280201',
+        'shortName': 'sg'
+    },
+    {
+        'locationName': '南宁',
+        'locationCode': '101300101',
+        'shortName': 'nn'
+    },
+    {
+        'locationName': '柳州',
+        'locationCode': '101300301',
+        'shortName': 'lz'
+    },
+    {
+        'locationName': '来宾',
+        'locationCode': '101300401',
+        'shortName': 'lb'
+    },
+    {
+        'locationName': '桂林',
+        'locationCode': '101300501',
+        'shortName': 'gl'
+    },
+    {
+        'locationName': '梧州',
+        'locationCode': '101300601',
+        'shortName': 'wz'
+    },
+    {
+        'locationName': '防城港',
+        'locationCode': '101301401',
+        'shortName': 'fcg'
+    },
+    {
+        'locationName': '贵港',
+        'locationCode': '101300801',
+        'shortName': 'gg'
+    },
+    {
+        'locationName': '玉林',
+        'locationCode': '101300901',
+        'shortName': 'yl'
+    },
+    {
+        'locationName': '百色',
+        'locationCode': '101301001',
+        'shortName': 'bs'
+    },
+    {
+        'locationName': '钦州',
+        'locationCode': '101301101',
+        'shortName': 'qz'
+    },
+    {
+        'locationName': '河池',
+        'locationCode': '101301201',
+        'shortName': 'hc'
+    },
+    {
+        'locationName': '北海',
+        'locationCode': '101301301',
+        'shortName': 'bh'
+    },
+    {
+        'locationName': '崇左',
+        'locationCode': '101300201',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '贺州',
+        'locationCode': '101300701',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '贵阳',
+        'locationCode': '101260101',
+        'shortName': 'gy'
+    },
+    {
+        'locationName': '安顺',
+        'locationCode': '101260301',
+        'shortName': 'as'
+    },
+    {
+        'locationName': '都匀',
+        'locationCode': '101260401',
+        'shortName': 'dy'
+    },
+    {
+        'locationName': '兴义',
+        'locationCode': '101260906',
+        'shortName': 'xy'
+    },
+    {
+        'locationName': '铜仁',
+        'locationCode': '101260601',
+        'shortName': 'tr'
+    },
+    {
+        'locationName': '毕节',
+        'locationCode': '101260701',
+        'shortName': 'bj'
+    },
+    {
+        'locationName': '六盘水',
+        'locationCode': '101260801',
+        'shortName': 'lps'
+    },
+    {
+        'locationName': '遵义',
+        'locationCode': '101260201',
+        'shortName': 'zy'
+    },
+    {
+        'locationName': '凯里',
+        'locationCode': '101260501',
+        'shortName': 'kl'
+    },
+    {
+        'locationName': '昆明',
+        'locationCode': '101290101',
+        'shortName': 'km'
+    },
+    {
+        'locationName': '红河',
+        'locationCode': '101290301',
+        'shortName': 'hh'
+    },
+    {
+        'locationName': '文山',
+        'locationCode': '101290601',
+        'shortName': 'ws'
+    },
+    {
+        'locationName': '玉溪',
+        'locationCode': '101290701',
+        'shortName': 'yx'
+    },
+    {
+        'locationName': '楚雄',
+        'locationCode': '101290801',
+        'shortName': 'cx'
+    },
+    {
+        'locationName': '普洱',
+        'locationCode': '101290901',
+        'shortName': 'pe'
+    },
+    {
+        'locationName': '昭通',
+        'locationCode': '101291001',
+        'shortName': 'zt'
+    },
+    {
+        'locationName': '临沧',
+        'locationCode': '101291101',
+        'shortName': 'lc'
+    },
+    {
+        'locationName': '怒江',
+        'locationCode': '101291201',
+        'shortName': 'nj'
+    },
+    {
+        'locationName': '香格里拉',
+        'locationCode': '101291301',
+        'shortName': 'xgll'
+    },
+    {
+        'locationName': '丽江',
+        'locationCode': '101291401',
+        'shortName': 'lj'
+    },
+    {
+        'locationName': '德宏',
+        'locationCode': '101291501',
+        'shortName': 'dh'
+    },
+    {
+        'locationName': '景洪',
+        'locationCode': '101291601',
+        'shortName': 'jh'
+    },
+    {
+        'locationName': '大理',
+        'locationCode': '101290201',
+        'shortName': 'dl'
+    },
+    {
+        'locationName': '曲靖',
+        'locationCode': '101290401',
+        'shortName': 'qj'
+    },
+    {
+        'locationName': '保山',
+        'locationCode': '101290501',
+        'shortName': 'bs'
+    },
+    {
+        'locationName': '呼和浩特',
+        'locationCode': '101080101',
+        'shortName': 'hhht'
+    },
+    {
+        'locationName': '乌海',
+        'locationCode': '101080301',
+        'shortName': 'wh'
+    },
+    {
+        'locationName': '集宁',
+        'locationCode': '101080401',
+        'shortName': 'jn'
+    },
+    {
+        'locationName': '通辽',
+        'locationCode': '101080501',
+        'shortName': 'tl'
+    },
+    {
+        'locationName': '阿拉善左旗',
+        'locationCode': '101081201',
+        'shortName': 'alszq'
+    },
+    {
+        'locationName': '鄂尔多斯',
+        'locationCode': '101080701',
+        'shortName': 'eeds'
+    },
+    {
+        'locationName': '临河',
+        'locationCode': '101080801',
+        'shortName': 'lh'
+    },
+    {
+        'locationName': '锡林浩特',
+        'locationCode': '101080901',
+        'shortName': 'xlht'
+    },
+    {
+        'locationName': '呼伦贝尔',
+        'locationCode': '101081000',
+        'shortName': 'hlbe'
+    },
+    {
+        'locationName': '乌兰浩特',
+        'locationCode': '101081101',
+        'shortName': 'wlht'
+    },
+    {
+        'locationName': '包头',
+        'locationCode': '101080201',
+        'shortName': 'bt'
+    },
+    {
+        'locationName': '赤峰',
+        'locationCode': '101080601',
+        'shortName': 'cf'
+    },
+    {
+        'locationName': '南昌',
+        'locationCode': '101240101',
+        'shortName': 'nc'
+    },
+    {
+        'locationName': '上饶',
+        'locationCode': '101240301',
+        'shortName': 'sr'
+    },
+    {
+        'locationName': '抚州',
+        'locationCode': '101240401',
+        'shortName': 'fz'
+    },
+    {
+        'locationName': '宜春',
+        'locationCode': '101240501',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '鹰潭',
+        'locationCode': '101241101',
+        'shortName': 'yt'
+    },
+    {
+        'locationName': '赣州',
+        'locationCode': '101240701',
+        'shortName': 'gz'
+    },
+    {
+        'locationName': '景德镇',
+        'locationCode': '101240801',
+        'shortName': 'jdz'
+    },
+    {
+        'locationName': '萍乡',
+        'locationCode': '101240901',
+        'shortName': 'px'
+    },
+    {
+        'locationName': '新余',
+        'locationCode': '101241001',
+        'shortName': 'xy'
+    },
+    {
+        'locationName': '九江',
+        'locationCode': '101240201',
+        'shortName': 'jj'
+    },
+    {
+        'locationName': '吉安',
+        'locationCode': '101240601',
+        'shortName': 'ja'
+    },
+    {
+        'locationName': '武汉',
+        'locationCode': '101200101',
+        'shortName': 'wh'
+    },
+    {
+        'locationName': '黄冈',
+        'locationCode': '101200501',
+        'shortName': 'hg'
+    },
+    {
+        'locationName': '荆州',
+        'locationCode': '101200801',
+        'shortName': 'jz'
+    },
+    {
+        'locationName': '宜昌',
+        'locationCode': '101200901',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '恩施',
+        'locationCode': '101201001',
+        'shortName': 'es'
+    },
+    {
+        'locationName': '十堰',
+        'locationCode': '101201101',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '神农架',
+        'locationCode': '101201201',
+        'shortName': 'snj'
+    },
+    {
+        'locationName': '随州',
+        'locationCode': '101201301',
+        'shortName': 'sz'
+    },
+    {
+        'locationName': '荆门',
+        'locationCode': '101201401',
+        'shortName': 'jm'
+    },
+    {
+        'locationName': '天门',
+        'locationCode': '101201501',
+        'shortName': 'tm'
+    },
+    {
+        'locationName': '仙桃',
+        'locationCode': '101201601',
+        'shortName': 'xt'
+    },
+    {
+        'locationName': '潜江',
+        'locationCode': '101201701',
+        'shortName': 'qj'
+    },
+    {
+        'locationName': '襄樊',
+        'locationCode': '101200201',
+        'shortName': 'xf'
+    },
+    {
+        'locationName': '鄂州',
+        'locationCode': '101200301',
+        'shortName': 'ez'
+    },
+    {
+        'locationName': '孝感',
+        'locationCode': '101200401',
+        'shortName': 'xg'
+    },
+    {
+        'locationName': '黄石',
+        'locationCode': '101200601',
+        'shortName': 'hs'
+    },
+    {
+        'locationName': '咸宁',
+        'locationCode': '101200701',
+        'shortName': 'xn'
+    },
+    {
+        'locationName': '成都',
+        'locationCode': '101270101',
+        'shortName': 'cd'
+    },
+    {
+        'locationName': '自贡',
+        'locationCode': '101270301',
+        'shortName': 'zg'
+    },
+    {
+        'locationName': '绵阳',
+        'locationCode': '101270401',
+        'shortName': 'my'
+    },
+    {
+        'locationName': '南充',
+        'locationCode': '101270501',
+        'shortName': 'nc'
+    },
+    {
+        'locationName': '达州',
+        'locationCode': '101270601',
+        'shortName': 'dz'
+    },
+    {
+        'locationName': '遂宁',
+        'locationCode': '101270701',
+        'shortName': 'sn'
+    },
+    {
+        'locationName': '广安',
+        'locationCode': '101270801',
+        'shortName': 'ga'
+    },
+    {
+        'locationName': '巴中',
+        'locationCode': '101270901',
+        'shortName': 'bz'
+    },
+    {
+        'locationName': '泸州',
+        'locationCode': '101271001',
+        'shortName': '*z'
+    },
+    {
+        'locationName': '宜宾',
+        'locationCode': '101271101',
+        'shortName': 'yb'
+    },
+    {
+        'locationName': '内江',
+        'locationCode': '101271201',
+        'shortName': 'nj'
+    },
+    {
+        'locationName': '资阳',
+        'locationCode': '101271301',
+        'shortName': 'zy'
+    },
+    {
+        'locationName': '乐山',
+        'locationCode': '101271401',
+        'shortName': 'ls'
+    },
+    {
+        'locationName': '眉山',
+        'locationCode': '101271501',
+        'shortName': 'ms'
+    },
+    {
+        'locationName': '凉山',
+        'locationCode': '101271601',
+        'shortName': 'ls'
+    },
+    {
+        'locationName': '雅安',
+        'locationCode': '101271701',
+        'shortName': 'ya'
+    },
+    {
+        'locationName': '甘孜',
+        'locationCode': '101271801',
+        'shortName': 'gz'
+    },
+    {
+        'locationName': '阿坝',
+        'locationCode': '101271901',
+        'shortName': 'ab'
+    },
+    {
+        'locationName': '德阳',
+        'locationCode': '101272001',
+        'shortName': 'dy'
+    },
+    {
+        'locationName': '广元',
+        'locationCode': '101272101',
+        'shortName': 'gy'
+    },
+    {
+        'locationName': '攀枝花',
+        'locationCode': '101270201',
+        'shortName': 'pzh'
+    },
+    {
+        'locationName': '银川',
+        'locationCode': '101170101',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '中卫',
+        'locationCode': '101170501',
+        'shortName': 'zw'
+    },
+    {
+        'locationName': '固原',
+        'locationCode': '101170401',
+        'shortName': 'gy'
+    },
+    {
+        'locationName': '石嘴山',
+        'locationCode': '101170201',
+        'shortName': 'szs'
+    },
+    {
+        'locationName': '吴忠',
+        'locationCode': '101170301',
+        'shortName': 'wz'
+    },
+    {
+        'locationName': '西宁',
+        'locationCode': '101150101',
+        'shortName': 'xn'
+    },
+    {
+        'locationName': '黄南',
+        'locationCode': '101150301',
+        'shortName': 'hn'
+    },
+    {
+        'locationName': '海北',
+        'locationCode': '101150801',
+        'shortName': 'hb'
+    },
+    {
+        'locationName': '果洛',
+        'locationCode': '101150501',
+        'shortName': 'gl'
+    },
+    {
+        'locationName': '玉树',
+        'locationCode': '101150601',
+        'shortName': 'ys'
+    },
+    {
+        'locationName': '海西',
+        'locationCode': '101150701',
+        'shortName': 'hx'
+    },
+    {
+        'locationName': '海东',
+        'locationCode': '101150201',
+        'shortName': 'hd'
+    },
+    {
+        'locationName': '海南',
+        'locationCode': '101150401',
+        'shortName': 'hn'
+    },
+    {
+        'locationName': '济南',
+        'locationCode': '101120101',
+        'shortName': 'jn'
+    },
+    {
+        'locationName': '潍坊',
+        'locationCode': '101120601',
+        'shortName': 'wf'
+    },
+    {
+        'locationName': '临沂',
+        'locationCode': '101120901',
+        'shortName': 'ly'
+    },
+    {
+        'locationName': '菏泽',
+        'locationCode': '101121001',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '滨州',
+        'locationCode': '101121101',
+        'shortName': 'bz'
+    },
+    {
+        'locationName': '东营',
+        'locationCode': '101121201',
+        'shortName': 'dy'
+    },
+    {
+        'locationName': '威海',
+        'locationCode': '101121301',
+        'shortName': 'wh'
+    },
+    {
+        'locationName': '枣庄',
+        'locationCode': '101121401',
+        'shortName': 'zz'
+    },
+    {
+        'locationName': '日照',
+        'locationCode': '101121501',
+        'shortName': 'rz'
+    },
+    {
+        'locationName': '莱芜',
+        'locationCode': '101121601',
+        'shortName': 'lw'
+    },
+    {
+        'locationName': '聊城',
+        'locationCode': '101121701',
+        'shortName': 'lc'
+    },
+    {
+        'locationName': '青岛',
+        'locationCode': '101120201',
+        'shortName': 'qd'
+    },
+    {
+        'locationName': '淄博',
+        'locationCode': '101120301',
+        'shortName': 'zb'
+    },
+    {
+        'locationName': '德州',
+        'locationCode': '101120401',
+        'shortName': 'dz'
+    },
+    {
+        'locationName': '烟台',
+        'locationCode': '101120501',
+        'shortName': 'yt'
+    },
+    {
+        'locationName': '济宁',
+        'locationCode': '101120701',
+        'shortName': 'jn'
+    },
+    {
+        'locationName': '泰安',
+        'locationCode': '101120801',
+        'shortName': 'ta'
+    },
+    {
+        'locationName': '西安',
+        'locationCode': '101110101',
+        'shortName': 'xa'
+    },
+    {
+        'locationName': '延安',
+        'locationCode': '101110300',
+        'shortName': 'ya'
+    },
+    {
+        'locationName': '榆林',
+        'locationCode': '101110401',
+        'shortName': 'yl'
+    },
+    {
+        'locationName': '铜川',
+        'locationCode': '101111001',
+        'shortName': 'tc'
+    },
+    {
+        'locationName': '商洛',
+        'locationCode': '101110601',
+        'shortName': 'sl'
+    },
+    {
+        'locationName': '安康',
+        'locationCode': '101110701',
+        'shortName': 'ak'
+    },
+    {
+        'locationName': '汉中',
+        'locationCode': '101110801',
+        'shortName': 'hz'
+    },
+    {
+        'locationName': '宝鸡',
+        'locationCode': '101110901',
+        'shortName': 'bj'
+    },
+    {
+        'locationName': '咸阳',
+        'locationCode': '101110200',
+        'shortName': 'xy'
+    },
+    {
+        'locationName': '渭南',
+        'locationCode': '101110501',
+        'shortName': 'wn'
+    },
+    {
+        'locationName': '太原',
+        'locationCode': '101100101',
+        'shortName': 'ty'
+    },
+    {
+        'locationName': '临汾',
+        'locationCode': '101100701',
+        'shortName': 'lf'
+    },
+    {
+        'locationName': '运城',
+        'locationCode': '101100801',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '朔州',
+        'locationCode': '101100901',
+        'shortName': 'sz'
+    },
+    {
+        'locationName': '忻州',
+        'locationCode': '101101001',
+        'shortName': 'xz'
+    },
+    {
+        'locationName': '长治',
+        'locationCode': '101100501',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '大同',
+        'locationCode': '101100201',
+        'shortName': 'dt'
+    },
+    {
+        'locationName': '阳泉',
+        'locationCode': '101100301',
+        'shortName': 'yq'
+    },
+    {
+        'locationName': '晋中',
+        'locationCode': '101100401',
+        'shortName': 'jz'
+    },
+    {
+        'locationName': '晋城',
+        'locationCode': '101100601',
+        'shortName': 'jc'
+    },
+    {
+        'locationName': '吕梁',
+        'locationCode': '101101100',
+        'shortName': 'll'
+    },
+    {
+        'locationName': '乌鲁木齐',
+        'locationCode': '101130101',
+        'shortName': 'wlmq'
+    },
+    {
+        'locationName': '石河子',
+        'locationCode': '101130301',
+        'shortName': 'shz'
+    },
+    {
+        'locationName': '昌吉',
+        'locationCode': '101130401',
+        'shortName': 'cj'
+    },
+    {
+        'locationName': '吐鲁番',
+        'locationCode': '101130501',
+        'shortName': 'tlf'
+    },
+    {
+        'locationName': '库尔勒',
+        'locationCode': '101130601',
+        'shortName': 'kel'
+    },
+    {
+        'locationName': '阿拉尔',
+        'locationCode': '101130701',
+        'shortName': 'ale'
+    },
+    {
+        'locationName': '阿克苏',
+        'locationCode': '101130801',
+        'shortName': 'aks'
+    },
+    {
+        'locationName': '喀什',
+        'locationCode': '101130901',
+        'shortName': 'ks'
+    },
+    {
+        'locationName': '伊宁',
+        'locationCode': '101131001',
+        'shortName': 'yn'
+    },
+    {
+        'locationName': '塔城',
+        'locationCode': '101131101',
+        'shortName': 'tc'
+    },
+    {
+        'locationName': '哈密',
+        'locationCode': '101131201',
+        'shortName': 'hm'
+    },
+    {
+        'locationName': '和田',
+        'locationCode': '101131301',
+        'shortName': 'ht'
+    },
+    {
+        'locationName': '阿勒泰',
+        'locationCode': '101131401',
+        'shortName': 'alt'
+    },
+    {
+        'locationName': '阿图什',
+        'locationCode': '101131501',
+        'shortName': 'ats'
+    },
+    {
+        'locationName': '博乐',
+        'locationCode': '101131601',
+        'shortName': 'bl'
+    },
+    {
+        'locationName': '克拉玛依',
+        'locationCode': '101130201',
+        'shortName': 'klmy'
+    },
+    {
+        'locationName': '拉萨',
+        'locationCode': '101140101',
+        'shortName': 'ls'
+    },
+    {
+        'locationName': '山南',
+        'locationCode': '101140301',
+        'shortName': 'sn'
+    },
+    {
+        'locationName': '阿里',
+        'locationCode': '101140701',
+        'shortName': 'al'
+    },
+    {
+        'locationName': '昌都',
+        'locationCode': '101140501',
+        'shortName': 'cd'
+    },
+    {
+        'locationName': '那曲',
+        'locationCode': '101140601',
+        'shortName': 'nq'
+    },
+    {
+        'locationName': '日喀则',
+        'locationCode': '101140201',
+        'shortName': 'rkz'
+    },
+    {
+        'locationName': '林芝',
+        'locationCode': '101140401',
+        'shortName': 'lz'
+    },
+    {
+        'locationName': '台北县',
+        'locationCode': '101340101',
+        'shortName': 'tbx'
+    },
+    {
+        'locationName': '高雄',
+        'locationCode': '101340201',
+        'shortName': 'gx'
+    },
+    {
+        'locationName': '台中',
+        'locationCode': '101340401',
+        'shortName': 'tz'
+    },
+    {
+        'locationName': '海口',
+        'locationCode': '101310101',
+        'shortName': 'hk'
+    },
+    {
+        'locationName': '三亚',
+        'locationCode': '101310201',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '东方',
+        'locationCode': '101310202',
+        'shortName': 'df'
+    },
+    {
+        'locationName': '临高',
+        'locationCode': '101310203',
+        'shortName': 'lg'
+    },
+    {
+        'locationName': '澄迈',
+        'locationCode': '101310204',
+        'shortName': 'cm'
+    },
+    {
+        'locationName': '儋州',
+        'locationCode': '101310205',
+        'shortName': '*z'
+    },
+    {
+        'locationName': '昌江',
+        'locationCode': '101310206',
+        'shortName': 'cj'
+    },
+    {
+        'locationName': '白沙',
+        'locationCode': '101310207',
+        'shortName': 'bs'
+    },
+    {
+        'locationName': '琼中',
+        'locationCode': '101310208',
+        'shortName': 'qz'
+    },
+    {
+        'locationName': '定安',
+        'locationCode': '101310209',
+        'shortName': 'da'
+    },
+    {
+        'locationName': '屯昌',
+        'locationCode': '101310210',
+        'shortName': 'tc'
+    },
+    {
+        'locationName': '琼海',
+        'locationCode': '101310211',
+        'shortName': 'qh'
+    },
+    {
+        'locationName': '文昌',
+        'locationCode': '101310212',
+        'shortName': 'wc'
+    },
+    {
+        'locationName': '保亭',
+        'locationCode': '101310214',
+        'shortName': 'bt'
+    },
+    {
+        'locationName': '万宁',
+        'locationCode': '101310215',
+        'shortName': 'wn'
+    },
+    {
+        'locationName': '陵水',
+        'locationCode': '101310216',
+        'shortName': 'ls'
+    },
+    {
+        'locationName': '西沙',
+        'locationCode': '101310217',
+        'shortName': 'xs'
+    },
+    {
+        'locationName': '南沙岛',
+        'locationCode': '101310220',
+        'shortName': 'nsd'
+    },
+    {
+        'locationName': '乐东',
+        'locationCode': '101310221',
+        'shortName': 'ld'
+    },
+    {
+        'locationName': '五指山',
+        'locationCode': '101310222',
+        'shortName': 'wzs'
+    },
+    {
+        'locationName': '琼山',
+        'locationCode': '101310102',
+        'shortName': 'qs'
+    },
+    {
+        'locationName': '长沙',
+        'locationCode': '101250101',
+        'shortName': 'cs'
+    },
+    {
+        'locationName': '株洲',
+        'locationCode': '101250301',
+        'shortName': 'zz'
+    },
+    {
+        'locationName': '衡阳',
+        'locationCode': '101250401',
+        'shortName': 'hy'
+    },
+    {
+        'locationName': '郴州',
+        'locationCode': '101250501',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '常德',
+        'locationCode': '101250601',
+        'shortName': 'cd'
+    },
+    {
+        'locationName': '益阳',
+        'locationCode': '101250700',
+        'shortName': 'yy'
+    },
+    {
+        'locationName': '娄底',
+        'locationCode': '101250801',
+        'shortName': 'ld'
+    },
+    {
+        'locationName': '邵阳',
+        'locationCode': '101250901',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '岳阳',
+        'locationCode': '101251001',
+        'shortName': 'yy'
+    },
+    {
+        'locationName': '张家界',
+        'locationCode': '101251101',
+        'shortName': 'zjj'
+    },
+    {
+        'locationName': '怀化',
+        'locationCode': '101251201',
+        'shortName': 'hh'
+    },
+    {
+        'locationName': '黔阳',
+        'locationCode': '101251301',
+        'shortName': 'qy'
+    },
+    {
+        'locationName': '永州',
+        'locationCode': '101251401',
+        'shortName': 'yz'
+    },
+    {
+        'locationName': '吉首',
+        'locationCode': '101251501',
+        'shortName': 'js'
+    },
+    {
+        'locationName': '湘潭',
+        'locationCode': '101250201',
+        'shortName': 'xt'
+    },
+    {
+        'locationName': '南京',
+        'locationCode': '101190101',
+        'shortName': 'nj'
+    },
+    {
+        'locationName': '镇江',
+        'locationCode': '101190301',
+        'shortName': 'zj'
+    },
+    {
+        'locationName': '苏州',
+        'locationCode': '101190401',
+        'shortName': 'sz'
+    },
+    {
+        'locationName': '南通',
+        'locationCode': '101190501',
+        'shortName': 'nt'
+    },
+    {
+        'locationName': '扬州',
+        'locationCode': '101190601',
+        'shortName': 'yz'
+    },
+    {
+        'locationName': '宿迁',
+        'locationCode': '101191301',
+        'shortName': 'sq'
+    },
+    {
+        'locationName': '徐州',
+        'locationCode': '101190801',
+        'shortName': 'xz'
+    },
+    {
+        'locationName': '淮安',
+        'locationCode': '101190901',
+        'shortName': 'ha'
+    },
+    {
+        'locationName': '连云港',
+        'locationCode': '101191001',
+        'shortName': 'lyg'
+    },
+    {
+        'locationName': '常州',
+        'locationCode': '101191101',
+        'shortName': 'cz'
+    },
+    {
+        'locationName': '泰州',
+        'locationCode': '101191201',
+        'shortName': 'tz'
+    },
+    {
+        'locationName': '无锡',
+        'locationCode': '101190201',
+        'shortName': 'wx'
+    },
+    {
+        'locationName': '盐城',
+        'locationCode': '101190701',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '哈尔滨',
+        'locationCode': '101050101',
+        'shortName': 'heb'
+    },
+    {
+        'locationName': '牡丹江',
+        'locationCode': '101050301',
+        'shortName': 'mdj'
+    },
+    {
+        'locationName': '佳木斯',
+        'locationCode': '101050401',
+        'shortName': 'jms'
+    },
+    {
+        'locationName': '绥化',
+        'locationCode': '101050501',
+        'shortName': 'sh'
+    },
+    {
+        'locationName': '黑河',
+        'locationCode': '101050601',
+        'shortName': 'hh'
+    },
+    {
+        'locationName': '双鸭山',
+        'locationCode': '101051301',
+        'shortName': 'sys'
+    },
+    {
+        'locationName': '伊春',
+        'locationCode': '101050801',
+        'shortName': 'yc'
+    },
+    {
+        'locationName': '大庆',
+        'locationCode': '101050901',
+        'shortName': 'dq'
+    },
+    {
+        'locationName': '七台河',
+        'locationCode': '101051002',
+        'shortName': 'qth'
+    },
+    {
+        'locationName': '鸡西',
+        'locationCode': '101051101',
+        'shortName': 'jx'
+    },
+    {
+        'locationName': '鹤岗',
+        'locationCode': '101051201',
+        'shortName': 'hg'
+    },
+    {
+        'locationName': '齐齐哈尔',
+        'locationCode': '101050201',
+        'shortName': 'qqhe'
+    },
+    {
+        'locationName': '大兴安岭',
+        'locationCode': '101050701',
+        'shortName': 'dxal'
+    },
+    {
+        'locationName': '长春',
+        'locationCode': '101060101',
+        'shortName': 'cc'
+    },
+    {
+        'locationName': '延吉',
+        'locationCode': '101060301',
+        'shortName': 'yj'
+    },
+    {
+        'locationName': '四平',
+        'locationCode': '101060401',
+        'shortName': 'sp'
+    },
+    {
+        'locationName': '白山',
+        'locationCode': '101060901',
+        'shortName': 'bs'
+    },
+    {
+        'locationName': '白城',
+        'locationCode': '101060601',
+        'shortName': 'bc'
+    },
+    {
+        'locationName': '辽源',
+        'locationCode': '101060701',
+        'shortName': 'ly'
+    },
+    {
+        'locationName': '松原',
+        'locationCode': '101060801',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '吉林',
+        'locationCode': '101060201',
+        'shortName': 'jl'
+    },
+    {
+        'locationName': '通化',
+        'locationCode': '101060501',
+        'shortName': 'th'
+    },
+    {
+        'locationName': '沈阳',
+        'locationCode': '101070101',
+        'shortName': 'sy'
+    },
+    {
+        'locationName': '鞍山',
+        'locationCode': '101070301',
+        'shortName': 'as'
+    },
+    {
+        'locationName': '抚顺',
+        'locationCode': '101070401',
+        'shortName': 'fs'
+    },
+    {
+        'locationName': '本溪',
+        'locationCode': '101070501',
+        'shortName': 'bx'
+    },
+    {
+        'locationName': '丹东',
+        'locationCode': '101070601',
+        'shortName': 'dd'
+    },
+    {
+        'locationName': '葫芦岛',
+        'locationCode': '101071401',
+        'shortName': 'hld'
+    },
+    {
+        'locationName': '营口',
+        'locationCode': '101070801',
+        'shortName': 'yk'
+    },
+    {
+        'locationName': '阜新',
+        'locationCode': '101070901',
+        'shortName': 'fx'
+    },
+    {
+        'locationName': '辽阳',
+        'locationCode': '101071001',
+        'shortName': 'ly'
+    },
+    {
+        'locationName': '铁岭',
+        'locationCode': '101071101',
+        'shortName': 'tl'
+    },
+    {
+        'locationName': '朝阳',
+        'locationCode': '101071201',
+        'shortName': 'cy'
+    },
+    {
+        'locationName': '盘锦',
+        'locationCode': '101071301',
+        'shortName': 'pj'
+    },
+    {
+        'locationName': '大连',
+        'locationCode': '101070201',
+        'shortName': 'dl'
+    },
+    {
+        'locationName': '锦州',
+        'locationCode': '101070701',
+        'shortName': 'jz'
+    }
+]
