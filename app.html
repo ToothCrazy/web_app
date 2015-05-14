@@ -26,7 +26,7 @@
 					var $content = $("#content")  
 					if (data.query.results) {  
 						  var weatherinfo = data.query.results.weatherinfo;     
-						  //console.log(weatherinfo);  
+						  //console.log(weatherinfo);
 						  var week = ["星期一","星期二","星期三","星期四","星期五","星期六","星期天","星期一","星期二"];  
 						  var week_tomorrow ="";  
 						  var week_tdat ="";  
@@ -41,6 +41,17 @@
               });  
               
 			});
+			
+			$("#name").click(function(){
+				
+				$.getJSON(
+					"http://api.map.baidu.com/telematics/v3/weather?location=%E6%B7%AE%E5%AE%89&output=json&ak=D6acdaad97ed821180f912ff469742e0&callback=?", 
+					function(data) {  
+						console.log(data);
+					}
+              );  
+				
+			});
 		});
 	</script>
 </head>
@@ -50,7 +61,7 @@
   <div data-role="header">
     <span style='float:left;'>我的应用</span>
 	<ul>
-		<li>用户名</li>
+		<li id="name">用户名</li>
 		<li id="order">菜单</li>
 		<li style="clear:both;"></li>
 	</ul>
