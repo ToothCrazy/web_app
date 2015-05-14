@@ -16,6 +16,33 @@
 			float:left;
 		}
 	</style>
+	<script type="text/javascript">
+		$(function(){
+			$("#order").click(function(){
+				$.getJSON("http://query.yahooapis.com/v1/public/yql", {  
+                q: "select * from json where url=\"http://m.weather.com.cn/atad/101190101.html\"",  
+                format: "json"  
+                }, function(data) {  
+					var $content = $("#content")  
+					if (data.query.results) {  
+						  var weatherinfo = data.query.results.weatherinfo;     
+						  //console.log(weatherinfo);  
+						  var week = ["星期一","星期二","星期三","星期四","星期五","星期六","星期天","星期一","星期二"];  
+						  var week_tomorrow ="";  
+						  var week_tdat ="";  
+						  var week_today = weatherinfo.week;  
+						  var index = $.inArray(week_today,week);  
+						  week_tomorrow = week[index+1];  
+						  week_tdat = week[index+2];  
+						  $(".today .location").text(weatherinfo.city);    
+					} else {  
+						  $(".today p:eq(1)").text("获取数据失败");     
+					}  
+              });  
+              
+			});
+		});
+	</script>
 </head>
 <body>
 
@@ -24,7 +51,7 @@
     <span style='float:left;'>我的应用</span>
 	<ul>
 		<li>用户名</li>
-		<li onclick="alert(111);">菜单</li>
+		<li id="order">菜单</li>
 		<li style="clear:both;"></li>
 	</ul>
 	<div style="clear:both;"></div>
