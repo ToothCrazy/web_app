@@ -7,7 +7,7 @@
    var opts = $.extend({}, $.weather.defaults, options);
    opts.api=opts.api.replace("[area]",opts.area).replace("[ak]",opts.appkey);
    $.getJSON(
-		"http://api.map.baidu.com/telematics/v3/weather?location=%E6%B7%AE%E5%AE%89&output=json&ak=D6acdaad97ed821180f912ff469742e0&callback=?", 
+		opts.api, 
 		function(data) {
 			if(data.status=="success"){
 				opts.success(data.results[0]);
