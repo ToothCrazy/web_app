@@ -7,6 +7,7 @@
 	<link rel="stylesheet" rev="stylesheet" href="/css/common/reset.css" type="text/css" />
 	<script src="/src/common/jquery-1.8.3.min.js"></script>
 	<script src="/src/common/jquery.mobile-1.3.2.min.js"></script>
+	<script src="/src/weather.js"></script>
 	<style type="text/css">
 		ul{
 			list-style:none;
@@ -18,39 +19,11 @@
 	</style>
 	<script type="text/javascript">
 		$(function(){
-			$("#order").click(function(){
-				$.getJSON("http://query.yahooapis.com/v1/public/yql", {  
-                q: "select * from json where url=\"http://m.weather.com.cn/atad/101190101.html\"",  
-                format: "json"  
-                }, function(data) {  
-					var $content = $("#content")  
-					if (data.query.results) {  
-						  var weatherinfo = data.query.results.weatherinfo;     
-						  //console.log(weatherinfo);
-						  var week = ["星期一","星期二","星期三","星期四","星期五","星期六","星期天","星期一","星期二"];  
-						  var week_tomorrow ="";  
-						  var week_tdat ="";  
-						  var week_today = weatherinfo.week;  
-						  var index = $.inArray(week_today,week);  
-						  week_tomorrow = week[index+1];  
-						  week_tdat = week[index+2];  
-						  $(".today .location").text(weatherinfo.city);    
-					} else {  
-						  $(".today p:eq(1)").text("获取数据失败");     
-					}  
-              });  
-              
-			});
-			
-			$("#name").click(function(){
-				
-				$.getJSON(
-					"http://api.map.baidu.com/telematics/v3/weather?location=%E6%B7%AE%E5%AE%89&output=json&ak=D6acdaad97ed821180f912ff469742e0&callback=?", 
-					function(data) {  
-						console.log(data);
-					}
-              );  
-				
+			$.weather({
+				area:"北京",
+				success:function(obj){
+					console.log(obj.currentCity);
+				}
 			});
 		});
 	</script>
