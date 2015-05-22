@@ -16,6 +16,22 @@
 		ul li{
 			float:left;
 		}
+		.head{
+			position: fixed;
+			top: 0px;
+			height: 50px;
+			z-index: 1000;
+			width: 100%;
+			max-width: 1140px;
+			min-width: 960px;
+			background: #aabd46;
+		}
+		.content{
+			height:500px;
+		}
+		
+		
+		
 	</style>
 	<script type="text/javascript">
 		$(function(){
@@ -31,7 +47,7 @@
 <body>
 
 <div data-role="page" id="pageone">
-  <div data-role="header">
+  <div class="head" data-role="header">
     <span style='float:left;'>我的应用</span>
 	<ul>
 		<li id="name">用户名</li>
@@ -41,7 +57,15 @@
 	<div style="clear:both;"></div>
   </div>
 
-  <div data-role="content">
+  <div class="content" data-role="content">
+    <p>Welcome!</p>
+    <a href="#pagetwo">转到页面二</a>
+  </div>
+   <div class="content" data-role="content">
+    <p>Welcome!</p>
+    <a href="#pagetwo">转到页面二</a>
+  </div>
+   <div class="content" data-role="content">
     <p>Welcome!</p>
     <a href="#pagetwo">转到页面二</a>
   </div>

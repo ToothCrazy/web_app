@@ -97,8 +97,8 @@ p {
 
 /* This is the selector i used for my menu, it needs to be set as position:absolute; */
 .subMenu {
-	position: absolute;
-	top: 462px;
+	position: fixed;
+	top: 0px;
 	height: 50px;
 	z-index: 1000;
 	width: 100%;
