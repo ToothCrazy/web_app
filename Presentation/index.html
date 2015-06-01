@@ -11,6 +11,11 @@
 	<script type="text/javascript" src="/src/common/require.config.js" ></script>
     <script type="text/javascript">
 		$(function(){
+			$.getJSON("/data/location.json",function(data){
+				$.each(data,function(i,item){
+					console.log(item["locationName"]);
+				});
+			});
 			require(["weatherInit"],function(init){
 				init.initdata("div_bindContents");
 			});
