@@ -22,8 +22,12 @@
     appkey: 'D6acdaad97ed821180f912ff469742e0',    
     api: 'http://api.map.baidu.com/telematics/v3/weather?location=[area]&output=json&ak=[ak]&callback=?',
     area:'北京',
-	success:function(obj){return false;},
-	faile:function(){return false;}
+	success:function(obj){
+		return false;	
+	},
+	faile:function(){
+		return false;
+	}
   };    
 // 闭包结束    
 })(jQuery);
